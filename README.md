@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Pavan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Final-year+CS+Student;DSA+%7C+C%2B%2B+%7C+Java+Enthusiast;Exploring+System+Design;Prepping+for+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Final-year+CSE+Student;DSA+%7C+C%2B%2B+%7C+Java+Enthusiast;Exploring+System+Design;Prepping+for+SDE+Roles" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎓 About Me
-- Final-year **B.Tech Computer Science** student at **AITS, Rajampet**
+- Final-year **B.Tech Computer Science and Engineering** student at **AITS, Rajampet**
 - Passionate about **coding, logic, and problem-solving**
 - Currently deep-diving into **Data Structures & Algorithms** and **System Design**
 - Recently explored building a **URL shortener service** (TinyURL-style) as part of system design practice
