@@ -92,7 +92,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pavankumar-learner)
 
-📧 **Email:** Add your professional email address here.
+📧 **Email:** pavankumarthota.official@gmail.com
 
 ---
 
